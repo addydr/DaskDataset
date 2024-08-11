@@ -12,7 +12,10 @@ This project leverages Dask to efficiently process and analyze a large dataset t
 
 - DAG Visualization: The visualize script uses Dask and Graphviz to create a clear and informative visualization of the DAG, providing insights into the computation workflow and task dependencies.
 
-This project showcases efficient parallel computing techniques for handling large operations. Here, Dask loads the data set into several smaller Pandas dataframes on a need basis, allowing for concurrent computing. 
+This project showcases efficient parallel computing techniques for handling large operations. Here, Dask loads the data set into several smaller Pandas dataframes on a need basis, allowing for concurrent computing.
+
+<h4>Note:</h4> The .csv used is too large to upload. It was found at this link: https://catalog.data.gov/dataset/crime-data-from-2020-to-present
+
 
 <br />
 
